@@ -1,0 +1,5 @@
+C:\Users\HSanchez\Desktop\Oop\ConsoleIODemo\ConsoleIODemo\bin\Debug\SanchezH_CIO.dll
+C:\Users\HSanchez\Desktop\Oop\ConsoleIODemo\ConsoleIODemo\bin\Debug\SanchezH_CIO.pdb
+C:\Users\HSanchez\Desktop\Oop\ConsoleIODemo\ConsoleIODemo\obj\Debug\ConsoleIODemo.csprojResolveAssemblyReference.cache
+C:\Users\HSanchez\Desktop\Oop\ConsoleIODemo\ConsoleIODemo\obj\Debug\SanchezH_CIO.dll
+C:\Users\HSanchez\Desktop\Oop\ConsoleIODemo\ConsoleIODemo\obj\Debug\SanchezH_CIO.pdb
